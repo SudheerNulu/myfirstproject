@@ -15,5 +15,5 @@ def multiply(x,y):
 
 def divide(x,y):
     """subtract function"""
-    return x/y
+    pass
 
